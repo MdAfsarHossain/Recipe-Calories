@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+    "cover_img": "https://i.postimg.cc/9QPD4rj4/faez-daniel-1a-Xm7g-ETd-LE-unsplash.jpg",
+    "ingredients": ["200g spaghetti", "100g pancetta", "2 large eggs"],
+    "time": "20",
+    "calories": "500"
+  },
+  {
+    "id": 2,
+    "title": "Chicken Stir-Fry",
+    "description": "Quick and easy chicken stir-fry with vegetables and a savory sauce.",
+    "cover_img": "https://i.postimg.cc/k428tqck/louis-hansel-zbq-Wr6u-s-Sk-unsplash.jpg",
+    "ingredients": [
+      "300g chicken breast",
+      "150g mixed vegetables",
+      "2 tablespoons soy sauce"
+    ],
+    "time": "30",
+    "calories": "350"
+  },
+  {
+    "id": 3,
+    "title": "Vegetable Soup",
+    "description": "A hearty and healthy vegetable soup that's perfect for a cold day.",
+    "cover_img": "https://i.postimg.cc/gJ3fWMYm/istockphoto-170619278-1024x1024.jpg",
+    "ingredients": ["1 onion", "2 carrots", "1 celery stalk"],
+    "time": "40",
+    "calories": "200"
+  },
+  {
+    "id": 4,
+    "title": "Classic Pancakes",
+    "description": "Fluffy pancakes served with maple syrup and fresh fruit.",
+    "cover_img": "https://i.postimg.cc/CxdX1MFv/none-other-1a-V-db-XWoi-M-unsplash.jpg",
+    "ingredients": ["1 cup flour", "1 tablespoon sugar", "1 cup milk"],
+    "time": "20",
+    "calories": "250"
+  },
+  {
+    "id": 5,
+    "title": "Caesar Salad",
+    "description": "A crisp salad with romaine lettuce, croutons, and a creamy Caesar dressing.",
+    "cover_img": "https://i.postimg.cc/6pSSGsqB/alpha-rad-Hi-TGg-Z3-YG-4-unsplash.jpg",
+    "ingredients": [
+      "1 head romaine lettuce",
+      "50g croutons",
+      "2 tablespoons Caesar dressing"
+    ],
+    "time": "10",
+    "calories": "150"
+  },
+  {
+    "id": 6,
+    "title": "Beef Tacos",
+    "description": "Spicy ground beef tacos topped with fresh salsa and cheese.",
+    "cover_img": "https://i.postimg.cc/3Rhtg3TQ/alisa-anton-Gn-Nmbv-N6-R64-unsplash.jpg",
+    "ingredients": [
+      "250g ground beef",
+      "6 taco shells",
+      "1 cup shredded cheese"
+    ],
+    "time": "25",
+    "calories": "400"
+  },
+  {
+    "id": 7,
+    "title": "Greek Yogurt Smoothie",
+    "description": "A refreshing smoothie made with Greek yogurt, berries, and honey.",
+    "cover_img": "https://i.postimg.cc/jjrkX39g/jars-with-yougurt-granola-23-2148579840.jpg",
+    "ingredients": [
+      "1 cup Greek yogurt",
+      "1/2 cup mixed berries",
+      "1 tablespoon honey"
+    ],
+    "time": "5",
+    "calories": "180"
+  },
+  {
+    "id": 8,
+    "title": "Margherita Pizza",
+    "description": "A simple yet delicious pizza topped with fresh tomatoes, mozzarella, and basil.",
+    "cover_img": "https://i.postimg.cc/wBXVxnsf/roberto-vincenzo-minasi-L4-W1u-X1xwl-Q-unsplash.jpg",
+    "ingredients": [
+      "1 pizza dough",
+      "200g mozzarella cheese",
+      "1 cup tomato sauce"
+    ],
+    "time": "25",
+    "calories": "600"
+  },
+  {
+    "id": 9,
+    "title": "Lemon Garlic Shrimp",
+    "description": "Succulent shrimp sautéed with garlic and lemon for a quick and tasty dish.",
+    "cover_img": "https://i.postimg.cc/fLDpwqft/shrimp-salad-with-boiled-egg-lettuce-chopped-scallions-white-plate-1150-26964.jpg",
+    "ingredients": ["300g shrimp", "2 cloves garlic", "1 lemon"],
+    "time": "15",
+    "calories": "250"
+  },
+  {
+    "id": 10,
+    "title": "Quinoa Salad",
+    "description": "A healthy and colorful salad with quinoa, vegetables, and a zesty vinaigrette.",
+    "cover_img": "https://i.postimg.cc/9MbSzPLx/vegetarian-couscous-with-broccoli-chickpeas-vegetables-1142-56873.jpg",
+    "ingredients": ["1 cup quinoa", "1 cucumber", "1 bell pepper"],
+    "time": "30",
+    "calories": "220"
+  },
+  {
+    "id": 11,
+    "title": "Apple Pie",
+    "description": "A classic dessert with a buttery crust and spiced apple filling.",
+    "cover_img": "https://i.postimg.cc/4xcSpR8H/baked-apple-pie-slice-cloth-23-2148432390.jpg",
+    "ingredients": ["2 cups apple slices", "1 pie crust", "1/2 cup sugar"],
+    "time": "1",
+    "calories": "400"
+  }
+]
